@@ -22,6 +22,11 @@ pip install -U langchain-openai
 
 - gemini
 pip install -U langchain-google-genai
+```
 
+# 기타 라이브러리
+```
+- llm 응답결과 캐싱 
+pip install redis
 ```
 
